@@ -1,0 +1,8 @@
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\bin\Debug\Vowels__String_manipulations.exe.config
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\bin\Debug\Vowels__String_manipulations.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\bin\Debug\Vowels__String_manipulations.pdb
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\obj\Debug\Vowels__String_manipulations.csproj.AssemblyReference.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\obj\Debug\Vowels__String_manipulations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\obj\Debug\Vowels__String_manipulations.csproj.CoreCompileInputs.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\obj\Debug\Vowels__String_manipulations.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Vowels__String_manipulations\obj\Debug\Vowels__String_manipulations.pdb
